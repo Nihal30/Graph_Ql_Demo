@@ -1,0 +1,9 @@
+.Char{
+    display: flex;
+}
+.Char-content{
+    margin-left: 2rem;
+}
+.Char-episode{
+    margin-top: 2rem;
+}

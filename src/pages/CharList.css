@@ -1,0 +1,14 @@
+.CharList{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+ 
+}
+.Search{
+   
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+    
+    
+}
